@@ -1,4 +1,4 @@
-How to play Space Guy.
+How to play Space Dude.
 
 - The aim of the game is collect as many crystals as possbile.
 - The way you do this is by tapping your screen repeatedly to activate the jet pack and allow you player to fly.
